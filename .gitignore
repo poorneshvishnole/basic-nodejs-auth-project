@@ -1,0 +1,7 @@
+node_modules
+.env
+
+
+git branch -M master
+git remote add origin https://github.com/poorneshvishnole/basic-nodejs-auth-project.git
+git push -u origin master
